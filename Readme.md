@@ -1,6 +1,6 @@
 # RenderSiren
 
-![Naga Siren from Dota 2](https%3A%2F%2Fgithub.com%2FPebaz%2FRenderSiren%2Fraw%2Fmaster%2Fres%2FNaga%20Siren%20Pink.png)
+![Naga Siren from Dota 2](https://github.com/Pebaz/RenderSiren/raw/master/res/Naga%20Siren%20Pink.png)
 
 A simple project created for the purposes of showcasing my ability to write
 Java code for [American Public University](http://www.apus.edu/).
